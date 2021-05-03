@@ -14,7 +14,7 @@ window.addEventListener("load", () => {
 
 
 
-            const api = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&units=metric&appid=ecb27da4fb56a487803d0e2360f4d5c8`;
+            const api = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&units=metric&lang=es&appid=ecb27da4fb56a487803d0e2360f4d5c8`;
 
 
 
